@@ -19,4 +19,4 @@ export default {
   border: 1px dotted #ccc;
   margin: 1rem 0;
 }
-<style>
+</style>
